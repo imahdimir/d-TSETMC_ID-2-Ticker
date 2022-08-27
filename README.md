@@ -1,2 +1,2 @@
 # Short Description
-**TSETMC_ID** to **Ticker** map
+**TSETMC_ID**s and their corresponding **Ticker**
