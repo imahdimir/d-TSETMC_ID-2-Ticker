@@ -1,2 +1,3 @@
 # Short Description
-***Unique*** **TSETMC-ID**s and their corresponding **Ticker**
+
+All ***Unique*** **TSETMC-ID**s and their corresponding **Ticker**
